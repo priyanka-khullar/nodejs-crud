@@ -1,0 +1,23 @@
+{
+  "name": "node_crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "priyanka-khullar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-form-data": "^2.0.11",
+    "fluent-ffmpeg": "^2.1.2",
+    "jimp": "^0.9.3",
+    "mysql": "^2.18.1",
+    "mysql-migrations": "^1.0.6",
+    "nodemon": "^2.0.2",
+    "videoshow": "^0.1.12"
+  }
+}
